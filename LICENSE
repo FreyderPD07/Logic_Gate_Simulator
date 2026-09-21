@@ -1,0 +1,10 @@
+---
+
+### Pasos para actualizarlo en GitHub
+
+Ejecuta estos 3 comandos en tu terminal de VS Code (en la rama `fapd`):
+
+```bash
+git add README.md
+git commit -m "docs: agregar seccion de proposito y motivacion del proyecto al README"
+git push origin fapd
